@@ -1,7 +1,8 @@
 ![logo](https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.jpg)
 <h1 align="center">Hi 👋, I'm Hitesh Mhatre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"
+<img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
+
 - 🌱 I’m currently learning **Paython**
 
 - 📫 How to reach me **hitesh.mhatre228@gmail.com**
