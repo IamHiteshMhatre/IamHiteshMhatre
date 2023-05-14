@@ -1,4 +1,4 @@
-![logo](https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.png, style="width:1500px")
+![logo]("https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.png" width='100%')
 
 <h1 align="center">Hi 👋, I'm Hitesh Mhatre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
