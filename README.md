@@ -1,4 +1,5 @@
-![logo](https://media-public.canva.com/ZbKfw/MAD1xsZbKfw/1/s2.jpg)
+![logo](https://www.canva.com/design/DAFi5fade9Q/7wbDZmPK9hc7RPUwa2iz2A/view/s2.jpg)
+
 <h1 align="center">Hi 👋, I'm Hitesh Mhatre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
