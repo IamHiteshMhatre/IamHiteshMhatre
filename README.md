@@ -1,5 +1,4 @@
-/*![logo](https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.jpg)*/
-![logo](https://www.canva.com/design/DAFi5fade9Q/7wbDZmPK9hc7RPUwa2iz2A/edit?category=tACFapY0WQc)
+![logo]()
 <h1 align="center">Hi 👋, I'm Hitesh Mhatre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
