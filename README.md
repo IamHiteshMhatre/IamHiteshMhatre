@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFi5fade9Q/7wbDZmPK9hc7RPUwa2iz2A/view/s2.jpg)
+![logo](https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.jpg)
 
 <h1 align="center">Hi 👋, I'm Hitesh Mhatre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
